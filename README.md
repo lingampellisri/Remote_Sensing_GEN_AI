@@ -63,7 +63,7 @@ This multi-functional toolkit bridges the gap between raw SAR data and actionabl
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Reboot2004/SARS.git
+(https://github.com/lingampellisri/Remote_Sensing_GEN_AI.git)
 cd SARS
 ```
 
